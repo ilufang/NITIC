@@ -1,7 +1,10 @@
 # NITIC
-Simulate trading system for NITIC
 
-**W.I.P.: Current code is not for distribution. Directly copying them to your server may cause unexpected error.**
+**Trading simulation system for NITIC**
+
+**NOTICE**: The latest version of NITIC has been migrated to [MrTunnel/nitic](https://github.com/MrTunnels/nitic). This repository keeps an archive of the NITIC-2015 trading simulator.
+
+*WARNING: The system is for contest purposes only and does not fully match the real security trading mechanisms. The system is now DEPRECATED and you should not rely on it. This repository is kept for archival purposes only.*
 
 # License
 
